@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\git edu\HW_6\hw6_1\bin\Debug\net6.0\hw6_1.exe
+C:\Users\Asus\Desktop\git edu\HW_6\hw6_1\bin\Debug\net6.0\hw6_1.deps.json
+C:\Users\Asus\Desktop\git edu\HW_6\hw6_1\bin\Debug\net6.0\hw6_1.runtimeconfig.json
+C:\Users\Asus\Desktop\git edu\HW_6\hw6_1\bin\Debug\net6.0\hw6_1.dll
+C:\Users\Asus\Desktop\git edu\HW_6\hw6_1\bin\Debug\net6.0\hw6_1.pdb
+C:\Users\Asus\Desktop\git edu\HW_6\hw6_1\obj\Debug\net6.0\hw6_1.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\git edu\HW_6\hw6_1\obj\Debug\net6.0\hw6_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\git edu\HW_6\hw6_1\obj\Debug\net6.0\hw6_1.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\git edu\HW_6\hw6_1\obj\Debug\net6.0\hw6_1.AssemblyInfo.cs
+C:\Users\Asus\Desktop\git edu\HW_6\hw6_1\obj\Debug\net6.0\hw6_1.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\git edu\HW_6\hw6_1\obj\Debug\net6.0\hw6_1.dll
+C:\Users\Asus\Desktop\git edu\HW_6\hw6_1\obj\Debug\net6.0\refint\hw6_1.dll
+C:\Users\Asus\Desktop\git edu\HW_6\hw6_1\obj\Debug\net6.0\hw6_1.pdb
+C:\Users\Asus\Desktop\git edu\HW_6\hw6_1\obj\Debug\net6.0\hw6_1.genruntimeconfig.cache
+C:\Users\Asus\Desktop\git edu\HW_6\hw6_1\obj\Debug\net6.0\ref\hw6_1.dll
